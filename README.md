@@ -168,5 +168,3 @@ Der Kurs legt besonderen Wert auf die **praktische Umsetzung** theoretischer Kon
 📧 [aschelle@constructor.university](mailto:aschelle@constructor.university) 
 
 ---
-
-Do you want me to do that next?
